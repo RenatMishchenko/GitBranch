@@ -1,2 +1,3 @@
-console.log('Hello world again')
-console.log('New console string')
+console.log('Hello world again');
+console.log('New console string');
+console.log("OLD one");
