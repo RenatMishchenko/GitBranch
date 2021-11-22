@@ -1,2 +1,2 @@
 console.log('Hello world again');
-console.log('New console string');
+console.log('New console string'); // Абракадабра
