@@ -1,2 +1,5 @@
 console.log('Hello world again');
 console.log('New console string');
+console.log('Something new');
+console.log('Something blue');
+console.log('Something old');
